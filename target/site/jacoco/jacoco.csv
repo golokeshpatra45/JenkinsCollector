@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+com.capitalone.dashboard:jenkins-build-collector,com.capitalone.dashboard,Application,8,0,0,0,3,0,2,0,2,0
+com.capitalone.dashboard:jenkins-build-collector,com.capitalone.dashboard.collector,HudsonCollectorTask,125,423,30,48,20,95,29,24,4,10
+com.capitalone.dashboard:jenkins-build-collector,com.capitalone.dashboard.collector,HudsonSettings,25,44,1,1,11,18,7,11,6,11
+com.capitalone.dashboard:jenkins-build-collector,com.capitalone.dashboard.collector,RestOperationsSupplier,7,0,0,0,2,0,2,0,2,0
+com.capitalone.dashboard:jenkins-build-collector,com.capitalone.dashboard.collector,DefaultHudsonClient,330,1301,52,95,71,265,48,52,0,25
+com.capitalone.dashboard:jenkins-build-collector,com.capitalone.dashboard.model,HudsonCollector,8,50,1,1,4,14,3,4,2,4
+com.capitalone.dashboard:jenkins-build-collector,com.capitalone.dashboard.model,HudsonJob,4,46,4,6,1,9,4,4,0,3
