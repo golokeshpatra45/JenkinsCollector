@@ -62,3 +62,5 @@ jenkins.apiKeys[0]=
 jenkins.saveLog=true
 ```
 #JenkinsCollector
+
+This project is also added to jenkins setup at the local machine.
